@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "127.0.0.1",
+    "ip": "catbox.play.hosting",
     "port": 19626,
     "version": "1.21.11"
   },
